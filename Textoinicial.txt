@@ -1,0 +1,95 @@
+
+Warning: Undefined array key "GqnQnc" in /home3/pactua47/public_html/wp-includes/blocks/post-title.php on line 1
+
+Warning: Undefined array key "qwrHLj" in /home3/pactua47/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 1
+
+Warning: Undefined array key "HTTP_REFERER" in /home3/pactua47/public_html/wp-content/themes/hello-elementor/hello-elementor.theme#archive on line 43
+Skip to content
+Pactual Ativa
+Decentralized token trading and yield farming platform - Pump Fun - maximize returns with low fee swaps and analytics.
+
+Home
+Vamos cuidar da sua empresa?
+
+Obtenha serviços contábeis confiáveis e eficientes conosco.
+Garantimos confiabilidade, cumprimento de prazos e melhoria contínua de processos. Tudo isso para que você se sinta satisfeito e sua empresa possa crescer com segurança.
+
+
+Nossas Soluções
+
+Sobre nós
+
+Serviços prestados
+
+Nossas soluções para pequenas e grandes empresas
+
+
+Consultoria e Gestão
+Fazemos a Gestão Financeira e Administrativa da sua empresa, buscando sempre estabelecer um planejamento estratégico.
+
+
+SAIBA MAIS
+
+
+Assessoria Contábil e Fiscal
+Assessoramos todas as rotinas contábeis e fiscais e realizamos o planejamento contábil e tributário de pequenas e grandes empresas.
+
+
+SAIBA MAIS
+
+
+Alterações Contratuais
+Abertura ou fechamento de empresas, ingresso ou saída de sócios, baixa de empresa, entre outros… nós cuidamos de tudo isso para você.
+
+
+SAIBA MAIS
+perguntas e respostas
+
+Perguntas frequentes
+Está em dúvida sobre a nossa forma de trabalhar ou algum de nossos serviços? Talvez a resposta esteja aqui, mas se você preferir, pode falar conosco pelo WhastApp.
+
+
+ENVIE UMA MENSAGEM
+
+
+Como funciona a busca e entrega de documentos?
+
+
+
+Todos os nossos processos são informatizados e online, portanto, a busca e entrega de documentos é toda realizada de forma virtual, mas em casos específicos também nos disponibilizamos a realizar a busca e entrega física de documentos no cliente.
+
+
+
+Uma empresa de pequeno porte pode contratar a contabilidade?
+
+
+
+Sim, a Pactual Ativa atende diversos tipos de empresa e portes. Estamos prontos para ajudá-los de acordo com cada necessidade.
+
+ 
+
+
+A Pactual Ativa atende empresas do Brasil inteiro?
+
+
+
+Sim, nós atendemos pessoas e empresas de todas as regiões do Brasil.
+
+
+
+Como é o processo de contratação?
+
+
+
+Simples e fácil, basta solicitar uma proposta que um de nossos colaboradores irá entrar em contato com você.
+
+  
+
+
+A Pactual Ativa trabalha em conformidade com a Lei?
+
+
+
+Sim, nós possuímos um corpo técnico de pessoas qualificadas que constantemente buscam por conhecimento e capacitação para atender as necessidades de cada cliente de forma específica e eficiente.
+
+
